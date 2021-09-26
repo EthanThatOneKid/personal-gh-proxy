@@ -1,10 +1,10 @@
-# personal-gh-proxy 🛰
+# Personal GitHub Proxy 🛰
 
 [![Deployed with Deno Deploy][deno_badge]][deno_deploy]
 
 A link shortening service for my long GitHub username.
 
-Deployed to <https://personal-gh-proxy.deno.dev/>.
+Deployed to <https://personal-gh-proxy.deno.dev/>, linked to <https://etok.codes/>.
 
 ---
 
